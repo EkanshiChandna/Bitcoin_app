@@ -35,7 +35,7 @@ To get the microservice up and running on your local machine, follow these steps
 4. Run the docker image
    docker run -p bitcoin-price-microservice
 
-# Further Steps  #
+# Further Steps (to be done) #
 1. Introducing API keys or OAuth for secure access to the microservice.
 2. While containerization has been achieved, a comprehensive Kubernetes deployment using Helm charts is yet to be achieved.
 
