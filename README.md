@@ -1,5 +1,5 @@
-# MSD_bitcoin_app
-Homework for MSD interview
+# bitcoin_app
+Creating a microservice to fetch and store the prices of Bitcoin in different currencies and processing the data.
 
 # Bitcoin Price Microservice
 
